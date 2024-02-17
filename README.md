@@ -4,4 +4,4 @@ This project is based on a cars dataset containing data about different models o
 <br><br>
 This is a simple data science project using the most simplest machine learning algorithm for practicing & brushing up your data science skills.
 
-Kaggle Dataset Link - [Car Price Priediction]{https://www.kaggle.com/datasets/mrsimple07/car-prices-prediction-data}
+Kaggle Dataset Link - [Car Price Priediction](https://www.kaggle.com/datasets/mrsimple07/car-prices-prediction-data)
